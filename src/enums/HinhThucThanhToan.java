@@ -1,7 +1,5 @@
 package enums;
 
 public enum HinhThucThanhToan {
-    TIEN_MAT,
-    CHUYEN_KHOAN,
-    THE
+    TIEN_MAT, CHUYEN_KHOAN, THE
 }
